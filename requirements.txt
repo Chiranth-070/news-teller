@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+langchain
+langchain_nvidia_ai_endpoints
+langchain_community
+requests
+bs4
+faiss-cpu
