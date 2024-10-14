@@ -20,7 +20,7 @@ This project allows users to ask questions about a news article by providing the
 Install my-project with 
 
 ```bash
-  git clone https://github.com/your-username/news-article-qa.git
+  git clone https://github.com/Chiranth-070/news-teller.git
 ```
 
 Install requirements
